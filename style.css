@@ -10,7 +10,10 @@ body {
 	margin : 0;
 	padding: 0;
 }
-
+h1 {
+    font-size: 40px;
+    color: #fdc202;
+    }
 .noselect {
   -webkit-touch-callout: none;
     -webkit-user-select: none;
@@ -28,7 +31,7 @@ body {
 	font-size: 35px;
 	color: #fff;
 	cursor: pointer;
-	width: 450px;
+	width: 90%;
 	height: 85px;
 	display: flex;
 	align-items: center;
